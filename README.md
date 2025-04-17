@@ -2,6 +2,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/joshua-rosas-3a617b23b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
+
+
 ## Hola! Bienvenido a mi portafolio de Ciencia de Datos 👋
 
 
